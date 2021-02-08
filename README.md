@@ -5,7 +5,7 @@
 
 
 ## **My Github statistics:**
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielblancogarcia7&count_private=true)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielblancogarcia&count_private=true)
 
 
 <!--
