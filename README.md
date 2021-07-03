@@ -20,6 +20,7 @@ Some of the fields where I have knowledge are:
 - Data wrangling & cleanning
 - Dimensionality reduction
 - Financial analysis
+- Economics
 
 And, beyond the endless list of stuff I'm looking forward to learn or dive deeper are:
 - More statistics, specifically bayesian
