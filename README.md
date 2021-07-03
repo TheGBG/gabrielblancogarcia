@@ -37,6 +37,7 @@ And, beyond the endless list of stuff I'm looking forward to learn or dive deepe
 ## **My Github statistics:**
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielblancogarcia&count_private=true)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gabrielblancogarcia.gabrielblancogarcia)
 
 <!--
 **gabrielblancogarcia/gabrielblancogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
