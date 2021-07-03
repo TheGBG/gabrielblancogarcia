@@ -2,7 +2,7 @@
 
 I'm a Data Science passionate. I have a degree in bussines administration, but after getting interested in DS, and after studying a master in it, I discovered my true passion. I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data, web scraping, and small bots to automate tasks.
 
-The main languages and tools I know:
+The main languages and tools I know and use are:
 - Python 
 - R
 - Git and Git Hub (seems obvious here lol)
@@ -12,7 +12,7 @@ The main languages and tools I know:
 
 I also like using the command line, mainly PowerShell, or Bash through WSL.
 
-Some of the fields where I have knowledge are:
+Some of the fields I have knowledge in are:
 - Machine Learning: both supervised and unsupervised learning
 - Statistics
 - Data Analysis in general
@@ -35,7 +35,7 @@ And, beyond the endless list of stuff I'm looking forward to learn or dive deepe
 
 
 ## **My Github statistics:**
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielblancogarcia&count_private=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielblancogarcia&count_private=true)
 
 
 <!--
