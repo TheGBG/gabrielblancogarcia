@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a Data Science passionate. I have a degree in bussines administration, but after getting interested in DS, and after studying a master in it, I discovered my true passion. I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data, web scraping, and small bots to automate tasks.
+
+The main languages and tools I know:
+- Python 
+- R
+- Docker
+- SQL
+- Spark
+
+I also like using the command line, mainly PowerShell, or Bash through WSL.
+
 ## **Most languages used**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact)](https://github.com/gabrielblancogarcia/github-readme-stats)
 
