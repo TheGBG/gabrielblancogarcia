@@ -5,11 +5,29 @@ I'm a Data Science passionate. I have a degree in bussines administration, but a
 The main languages and tools I know:
 - Python 
 - R
+- Git and Git Hub (seems obvious here lol)
 - Docker
 - SQL
 - Spark
 
 I also like using the command line, mainly PowerShell, or Bash through WSL.
+
+Some of the fields where I have knowledge are:
+- Machine Learning: both supervised and unsupervised learning
+- Statistics
+- Data Analysis in general
+- NLP
+- Data wrangling & cleanning
+- Dimensionality reduction
+- Financial analysis
+
+And, beyond the endless list of stuff I'm looking forward to learn or dive deeper are:
+- More statistics, specifically bayesian
+- Deep Learning, specially generative (GAN's) 
+- Reinforcment Learning
+- Robotics
+- Software in general, automate stuff, and alike
+
 
 ## **Most languages used**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact)](https://github.com/gabrielblancogarcia/github-readme-stats)
