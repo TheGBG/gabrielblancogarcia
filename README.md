@@ -31,7 +31,7 @@ And, beyond the endless list of stuff I'm looking forward to learn or dive deepe
 
 
 ## **Most languages used**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact)](https://github.com/gabrielblancogarcia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielblancogarcia&layout=compact)](https://github.com/gabrielblancogarcia/github-readme-stats)
 
 
 ## **My Github statistics:**
