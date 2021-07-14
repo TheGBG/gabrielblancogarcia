@@ -1,6 +1,6 @@
 ### About me
 
-I'm a Data Science passionate. I have a degree in bussines administration, but after getting interested in DS, and after studying a master in it, I discovered my true passion. I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data, web scraping, and small bots to automate tasks.
+I'm a passionate data scientist. I have a degree in bussines administration, but after getting interested in DS, and after studying a master in it, I discovered my true passion. I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data, web scraping, and small bots to automate tasks.
 
 The main languages and tools I know and use are:
 - Python 
