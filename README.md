@@ -6,6 +6,7 @@ The main languages and tools I know and use are:
 - Python 
 - R
 - Git and Git Hub (seems obvious here lol)
+- Bash
 - Docker
 - SQL
 - Spark
