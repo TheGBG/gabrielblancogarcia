@@ -1,4 +1,4 @@
-### About me
+## Gabriel Blanco
 
 * Data Scientist & Machine Learning Engineer at [VASS](https://vasscompany.com/)
 
