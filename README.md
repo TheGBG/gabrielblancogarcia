@@ -1,6 +1,6 @@
 ## Gabriel Blanco
 
-* Data Scientist & Machine Learning Engineer at [VASS](https://vasscompany.com/)
+* Data Scientist & Machine Learning Engineer
 
 I'm a passionate data scientist. I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data, web scraping, and creating small bots to automate tasks.
 
